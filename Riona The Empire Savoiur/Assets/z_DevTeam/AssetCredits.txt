@@ -1,0 +1,202 @@
+##### ART #####
+
+Name: GUI_Parts 
+{
+License: Standard Unity Asset Store EULA
+Source: Unity Asset store
+Publisher : poneti.artstation.com
+}
+
+Name: Medieval girl warrior
+{
+Author: RUNSYSTEM
+License: Royalty Free License of CGTraders
+Link: https://www.cgtrader.com/free-3d-models/character/woman/medieval-girl-warrior
+}
+
+Name: Jolleen
+{
+Author: Adobe Mixamo
+License: Free to use
+Link: https://www.mixamo.com/#/
+}
+
+Name: Animations
+{
+Author: Adobe Mixamo
+License: Free to use
+Link: https://www.mixamo.com/#/
+}
+
+Name: Crosshairs
+{
+Author: para
+License: CC0
+Link: https://opengameart.org/content/64-crosshairs-pack
+}
+
+Name:  spell-book    :Temporary sprite for pickups
+{
+Link: https://www.flaticon.com/free-icon/spell-book_1907863?term=spell%20book&page=1&position=11&page=1&position=11&related_id=1907863&origin=search
+}
+
+Name:  paladin_prop_j_nordstrom    :Temporary sprite for Enemy
+{
+Source: Mixamo > Characters > Paladin W/Prop J Nordstrom
+}
+
+Name:  saved    :Temporary sprite for save icon
+{
+Link: https://www.flaticon.com/premium-icon/saved_2956783?k=1644027294671
+}
+
+Name: Fly
+{
+Author : KonstantinAg
+Link: https://sketchfab.com/3d-models/fly-b10071f32406479e8e04a2280913047f
+}
+
+Name:  spellbook    :model for pickups
+{
+Link: https://sketchfab.com/3d-models/gart130-spellbook-1bc34bf1f4c24180a903dab0052025d9
+}
+
+Name: Fire free icon
+{
+Author: Darius Dan
+License: Free to use with attribution
+Link: https://www.flaticon.com/free-icon/fire_1615634
+}
+
+Name: JoyStickCrosshair
+{
+Author: Ilham Fitrotul Hayat
+License: Free to use with attribution
+Link: https://www.flaticon.com/free-icons/crosshair
+}
+
+Name: Potions
+{
+Author: Gameplan VFX
+License: Free to use
+Link: https://assetstore.unity.com/packages/3d/props/potions-115115
+}
+
+Name: Potions Icon
+{
+Author: Freepik
+License: Free to use with attribution
+Link: https://www.flaticon.com/free-icons/potion
+}
+
+Name: All Particle Effect Texture for Hand and Projectiles
+{
+Author: Kenney
+License: CC0
+Link: https://opengameart.org/content/particle-pack-80-sprites
+}
+
+Name: Element Type button Symbols
+{
+Author: eleazzaar
+License: CC BY 3.0
+Link: https://opengameart.org/content/painterly-spell-icons-part-4
+}
+
+
+##### FONT #####
+Name: Fredericka the Great Font
+{
+Link: https://fonts.google.com/specimen/Fredericka+the+Great?selection.family=Indie+Flower#standard-styles
+}
+
+
+##### SOUND #####
+Name: at_work soundtrack
+{
+Author: HorrorPen
+Link: https://opengameart.org/content/at-work-loop
+}
+
+Name: Medieval: The Old Tower Inn
+{
+Author : RandomMind
+Link: https://opengameart.org/content/medieval-the-old-tower-inn
+}
+
+Name: Snow about a Castle
+{
+Author : Telaron
+Link: https://opengameart.org/content/snow-about-a-castle
+}
+
+Name: Medieval: Defeat Theme
+{
+Author : RandomMind
+Link: https://opengameart.org/content/medieval-defeat-theme
+}
+
+
+Name:  paladin_prop_j_nordstrom    :Temporary sprite for Enemy
+{
+Source: Mixamo > Characters > Paladin W/Prop J Nordstrom
+}
+
+Name:  saved    :Temporary sprite for save icon
+{
+Link: https://www.flaticon.com/premium-icon/saved_2956783?k=1644027294671
+}
+
+Name: Fly
+{
+Author : KonstantinAg
+Link: https://sketchfab.com/3d-models/fly-b10071f32406479e8e04a2280913047f
+}
+Name:  spellbook    :model for pickups
+{
+Link: https://sketchfab.com/3d-models/gart130-spellbook-1bc34bf1f4c24180a903dab0052025d9
+}
+
+Name: phoenix bird
+{
+Author : NORBERTO-3D
+Link: "phoenix bird" (https://skfb.ly/6vLBp) by NORBERTO-3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+}
+
+
+Name: Bird 
+{
+Author : Amir027
+Link: https://opengameart.org/content/bird-0
+}
+
+Name: Imperial Guard
+{
+Author : Santiago Iborra
+(Submitted by snowdrop)
+Link: https://opengameart.org/content/imperial-guard
+}
+
+Name: Thief portrait - Female
+{
+Author : Zeldyn
+(Submitted by bart)
+Link: https://opengameart.org/content/thief-portrait-female
+}
+
+Name: coin
+{
+Author : Nia Mi
+Link: https://opengameart.org/content/coin-0
+}
+
+Name: Thick Fog - fog01.png
+{
+Author : LFA
+Link: https://opengameart.org/node/8086
+
+Name: healSpell3
+{
+Author: DoKashiteru
+Link: https://opengameart.org/content/3-heal-spells
+}
